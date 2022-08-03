@@ -1,0 +1,16 @@
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\bin\Debug\net5.0\PerformanceReviewReejecucion.exe
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\bin\Debug\net5.0\PerformanceReviewReejecucion.deps.json
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\bin\Debug\net5.0\PerformanceReviewReejecucion.runtimeconfig.json
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\bin\Debug\net5.0\PerformanceReviewReejecucion.runtimeconfig.dev.json
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\bin\Debug\net5.0\PerformanceReviewReejecucion.dll
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\bin\Debug\net5.0\PerformanceReviewReejecucion.pdb
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\PerformanceReviewReejecucion.csproj.AssemblyReference.cache
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\PerformanceReviewReejecucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\PerformanceReviewReejecucion.AssemblyInfoInputs.cache
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\PerformanceReviewReejecucion.AssemblyInfo.cs
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\PerformanceReviewReejecucion.csproj.CoreCompileInputs.cache
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\PerformanceReviewReejecucion.dll
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\refint\PerformanceReviewReejecucion.dll
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\PerformanceReviewReejecucion.pdb
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\PerformanceReviewReejecucion.genruntimeconfig.cache
+C:\Users\a875026\source\repos\PerformanceReviewReejecucion\PerformanceReviewReejecucion\obj\Debug\net5.0\ref\PerformanceReviewReejecucion.dll
