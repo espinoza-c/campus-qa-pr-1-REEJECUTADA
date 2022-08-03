@@ -4,8 +4,7 @@ using Xunit;
 
 namespace PerformanceReviewReejecucion
 {
-    public class UnitTest1
-    {
+
         public class PersonaShould
         {
             [Fact]
@@ -70,4 +69,4 @@ namespace PerformanceReviewReejecucion
             }
         }
     }
-}
+
